@@ -1,0 +1,52 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+body
+{
+background-color:pink;
+font-size:18px;
+color:purple;
+}
+.topnav{
+margin: 12px;
+padding: 5px;
+text-align: center;
+}
+.topnav a{
+display: inline-flex;
+text-decoration: none;
+}
+h1,h2{
+text-align:center;
+font-size:56px;
+color:blue;
+}
+h4{
+c
+
+color:navyblue;
+}
+aside{
+float:right;
+font-size:30px;
+background-color:red;
+color:yellow;
+}
+.topnav a{
+display: inline-flex;
+text-decoration: none;
+width: 120px;
+}
+img{
+max-width:100%;
+height:auto;
+}
+a{
+color:maroon;
+}
+footer{
+float:bottom;
+background-color:grey;
+width:100%;
+}
